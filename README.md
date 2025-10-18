@@ -1,0 +1,1 @@
+En este repositorio se resolverá toda la guía de ejercicios jQuery.
